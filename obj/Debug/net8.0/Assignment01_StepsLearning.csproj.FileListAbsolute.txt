@@ -1,0 +1,14 @@
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\bin\Debug\net8.0\Assignment01_StepsLearning.exe
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\bin\Debug\net8.0\Assignment01_StepsLearning.deps.json
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\bin\Debug\net8.0\Assignment01_StepsLearning.runtimeconfig.json
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\bin\Debug\net8.0\Assignment01_StepsLearning.dll
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\bin\Debug\net8.0\Assignment01_StepsLearning.pdb
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\Assignment01_StepsLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\Assignment01_StepsLearning.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\Assignment01_StepsLearning.AssemblyInfo.cs
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\Assignment01_StepsLearning.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\Assignment01_StepsLearning.dll
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\refint\Assignment01_StepsLearning.dll
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\Assignment01_StepsLearning.pdb
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\Assignment01_StepsLearning.genruntimeconfig.cache
+C:\Users\smart\source\repos\Assignment01_StepsLearning\Assignment01_StepsLearning\obj\Debug\net8.0\ref\Assignment01_StepsLearning.dll
